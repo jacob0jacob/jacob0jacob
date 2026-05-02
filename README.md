@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Jacob
 - 👀 I’m interested in playing, working out
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me e-mail jacob.zegota@vip.interia.pl
+- 🌱 I’m currently learning IT
+- 📫 How to reach me dc - jacob0jacob
 - 😄 Pronouns: Man
-- ⚡ Fun fact: Poland is th best 🇵🇱
 
 <!---
 jacob0jacob/jacob0jacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
